@@ -3,6 +3,8 @@ TEST AF
 [Link](hop://iap/1month799) 
 
  [test link](hop://iap/1month799) 
+ 
+ [deeplink](https://fb.me/1H2IJgfjm2GGiOy)
 
 You can use the [editor on GitHub](https://github.com/natisere/testaf/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
